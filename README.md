@@ -1,5 +1,5 @@
 # Práctica HTTP y DNS
-Alumno: dANIEL jIMÉNEZ rODRÍGUEZ 
+Alumno: Daniel Jiménez Rodríguez 
 Fecha: 17/12/2025  
 
 En esta práctica se han analizado peticiones y respuestas HTTP usando HTTP Header Live.
